@@ -8,11 +8,6 @@
 - Crick defaults
 - Submit jobs to Crick 
 
-    
-###Unix computer tips:
-- Bash 
-- R basics [input/output especially, herefiles, pull from distributions, creating your own distribution, things people in the lab need]
-
 ###All about Crick:
 
 ####What is Crick:
