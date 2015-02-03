@@ -6,9 +6,8 @@
 - What is Crick
 - Setting up your account
 - Crick defaults
-- Installing programs on Crick
-- Special Crick things [scratch usage, tentakel]
 - Submit jobs to Crick 
+
     
 ###Unix computer tips:
 - Bash 
